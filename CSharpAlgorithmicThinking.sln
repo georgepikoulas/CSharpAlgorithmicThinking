@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainConsole", "MainConsole\MainConsole.csproj", "{3FC8F62E-4F27-46E8-9501-3C596908A72D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter7Console", "MainConsole\Chapter7Console.csproj", "{3FC8F62E-4F27-46E8-9501-3C596908A72D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAlgotihmicThinking.Algorithms", "CSharpAlgotihmicThinking.Algorithms\CSharpAlgotihmicThinking.Algorithms.csproj", "{425883DD-1036-4AFB-A567-EFB91973BD39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3FC8F62E-4F27-46E8-9501-3C596908A72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FC8F62E-4F27-46E8-9501-3C596908A72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FC8F62E-4F27-46E8-9501-3C596908A72D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{425883DD-1036-4AFB-A567-EFB91973BD39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425883DD-1036-4AFB-A567-EFB91973BD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425883DD-1036-4AFB-A567-EFB91973BD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425883DD-1036-4AFB-A567-EFB91973BD39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
