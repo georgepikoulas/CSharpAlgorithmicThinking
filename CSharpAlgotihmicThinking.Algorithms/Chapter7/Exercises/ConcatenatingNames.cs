@@ -8,8 +8,5 @@ namespace CSharpAlgotihmicThinking.Algorithms.Chapter.Exercises
 {
     public class ConcatenatingNames
     {
-        public string PrintFullNames(string fistrName , string lastName)
-        {
-        }
     }
 }

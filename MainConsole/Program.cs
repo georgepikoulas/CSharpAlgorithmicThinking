@@ -1,4 +1,4 @@
-﻿using CSharpAlgotihmicThinking.Algorithms.Chapter.Exercises;
+﻿using CSharpAlgotihmicThinking.Exercises;
 using System;
 
 namespace MainConsole
@@ -13,7 +13,7 @@ namespace MainConsole
             Console.WriteLine("Please enter Last Name");
             var lastName = Console.ReadLine();
 
-            //var concatenate = new ConcatenatingNames();
+            var concatenate = new ConcatenatingNames();
             Console.WriteLine(fisrtName + " "+ lastName);
 
         }

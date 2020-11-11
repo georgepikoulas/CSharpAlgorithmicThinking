@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpAlgotihmicThinking.Algorithms.Chapter.Exercises
+namespace CSharpAlgotihmicThinking.Exercises
 {
     public class ConcatenatingNames
     {
