@@ -9,9 +9,11 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
     {
         static void Main(string[] args)
         {
-            var calcAreaRec = new CalcAreaRectangle();
-            calcAreaRec.Calculate();
+            //var calcAreaRec = new CalcAreaRectangle();
+            //calcAreaRec.Calculate();
 
+            var calcAreCircle = new CalcAreaCircle();
+            calcAreCircle.Calculate();
         }
     }
 }
