@@ -24,8 +24,12 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             //var kelvin = new ConvertFahrenheitToKelvin();
             //kelvin.Calculate();
 
-            var finalPrice = new CalculatingSalesTax();
-            finalPrice.Calculate();
+            //var finalPrice = new CalculatingSalesTax();
+            //finalPrice.Calculate();
+
+            var priceAfterDiscount = new CalcSalesDsicount();
+            priceAfterDiscount.Calculate();
+
         }
     }
 }
