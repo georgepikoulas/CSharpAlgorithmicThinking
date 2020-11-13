@@ -18,8 +18,11 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             //var mpg = new CalcMPG();
             //mpg.Calculate();
 
-            var distance = new CalcDistanceTravelled();
-            distance.Calculate();
+            // var distance = new CalcDistanceTravelled();
+            //distance.Calculate();
+
+            var kelvin = new ConvertFahrenheitToKelvin();
+            kelvin.Calculate();
         }
     }
 }
