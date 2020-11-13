@@ -40,8 +40,11 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             //var ang = new CalcAvgStudentMarks();
             // ang.Calculate();
 
-            var perimeter = new CalcPerimeterCircle();
-            perimeter.Calculate();
+            //var perimeter = new CalcPerimeterCircle();
+            //perimeter.Calculate();
+
+            var volume = new CalcVolumeSphere();
+            volume.Calculate();
         }
     }
 }
