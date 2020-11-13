@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CSharpAlgotihmicThinking.Chapter10Console.Exercises
 {
-    public class d
+    public class ConvertFahrenheitToCelsius
     {
         public void Calculate()
         {
