@@ -12,8 +12,11 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             //var calcAreaRec = new CalcAreaRectangle();
             //calcAreaRec.Calculate();
 
-            var calcAreCircle = new CalcAreaCircle();
-            calcAreCircle.Calculate();
+            //var calcAreCircle = new CalcAreaCircle();
+            //calcAreCircle.Calculate();
+
+            var mpg = new CalcMPG();
+            mpg.Calculate();
         }
     }
 }
