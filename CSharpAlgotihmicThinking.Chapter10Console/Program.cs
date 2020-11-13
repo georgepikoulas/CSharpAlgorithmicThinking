@@ -49,9 +49,11 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             // var multiForCircleAndVolume = new CalcCircleAreaPerimeterAndVolumeForSphere();
             //multiForCircleAndVolume.Calculate();
 
-            var tipAndSales = new CalcTipAndSalesTax();
-            tipAndSales.Calculate();
+            //var tipAndSales = new CalcTipAndSalesTax();
+            //tipAndSales.Calculate();
 
+            var convertCelsius = new ConvertFahrenheitToCelsius();
+            convertCelsius.Calculate();
         }
     }
 }
