@@ -27,8 +27,12 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             //var finalPrice = new CalculatingSalesTax();
             //finalPrice.Calculate();
 
-            var priceAfterDiscount = new CalcSalesDsicount();
-            priceAfterDiscount.Calculate();
+            // var priceAfterDiscount = new CalcSalesDsicount();
+            //priceAfterDiscount.Calculate();
+
+            var calcSalesAndTax = new CalcSalesTaxAndDiscount();
+            calcSalesAndTax.Calculate();
+
 
         }
     }

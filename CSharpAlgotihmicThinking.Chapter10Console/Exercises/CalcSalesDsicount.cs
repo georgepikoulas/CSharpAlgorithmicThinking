@@ -22,7 +22,7 @@ namespace CSharpAlgotihmicThinking.Chapter10Console.Exercises
             discountAmount = initialPrice * discount / 100;
 
             finalPrice = initialPrice - discountAmount;
-            Console.WriteLine("The final price with discont is " + finalPrice);
+            Console.WriteLine("The final price with discount is " + finalPrice);
 
         }
 
