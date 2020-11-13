@@ -43,8 +43,11 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             //var perimeter = new CalcPerimeterCircle();
             //perimeter.Calculate();
 
-            var volume = new CalcVolumeSphere();
-            volume.Calculate();
+            //var volume = new CalcVolumeSphere();
+            //volume.Calculate();
+
+            var multiForCircleAndVolume = new CalcCircleAreaPerimeterAndVolumeForSphere();
+            multiForCircleAndVolume.Calculate();
         }
     }
 }
