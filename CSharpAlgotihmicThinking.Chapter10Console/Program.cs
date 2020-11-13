@@ -21,8 +21,11 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             // var distance = new CalcDistanceTravelled();
             //distance.Calculate();
 
-            var kelvin = new ConvertFahrenheitToKelvin();
-            kelvin.Calculate();
+            //var kelvin = new ConvertFahrenheitToKelvin();
+            //kelvin.Calculate();
+
+            var finalPrice = new CalculatingSalesTax();
+            finalPrice.Calculate();
         }
     }
 }
