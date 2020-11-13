@@ -30,8 +30,11 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             // var priceAfterDiscount = new CalcSalesDsicount();
             //priceAfterDiscount.Calculate();
 
-            var calcSalesAndTax = new CalcSalesTaxAndDiscount();
-            calcSalesAndTax.Calculate();
+            // var calcSalesAndTax = new CalcSalesTaxAndDiscount();
+            //calcSalesAndTax.Calculate();
+
+            var angles = new CalcThirdangleTriangle();
+            angles.Calculate();
 
 
         }
