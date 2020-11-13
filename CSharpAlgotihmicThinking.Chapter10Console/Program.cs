@@ -34,12 +34,14 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             //calcSalesAndTax.Calculate();
 
             //var angles = new CalcThirdangleTriangle();
-           // angles.Calculate();
+            // angles.Calculate();
 
 
-            var ang = new CalcAvgStudentMarks();
-            ang.Calculate();
+            //var ang = new CalcAvgStudentMarks();
+            // ang.Calculate();
 
+            var perimeter = new CalcPerimeterCircle();
+            perimeter.Calculate();
         }
     }
 }
