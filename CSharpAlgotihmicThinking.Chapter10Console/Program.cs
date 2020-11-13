@@ -15,8 +15,11 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             //var calcAreCircle = new CalcAreaCircle();
             //calcAreCircle.Calculate();
 
-            var mpg = new CalcMPG();
-            mpg.Calculate();
+            //var mpg = new CalcMPG();
+            //mpg.Calculate();
+
+            var distance = new CalcDistanceTravelled();
+            distance.Calculate();
         }
     }
 }
