@@ -33,9 +33,12 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             // var calcSalesAndTax = new CalcSalesTaxAndDiscount();
             //calcSalesAndTax.Calculate();
 
-            var angles = new CalcThirdangleTriangle();
-            angles.Calculate();
+            //var angles = new CalcThirdangleTriangle();
+           // angles.Calculate();
 
+
+            var ang = new CalcAvgStudentMarks();
+            ang.Calculate();
 
         }
     }
