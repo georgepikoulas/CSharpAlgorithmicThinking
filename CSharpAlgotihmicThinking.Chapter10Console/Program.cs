@@ -58,9 +58,11 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             //var bmi = new CalculateBMI();
             //bmi.Calculate();
 
-            var tipAndTotal = new CalcTipAndTotal();
-            tipAndTotal.Calculate();
-              
+            // var tipAndTotal = new CalcTipAndTotal();
+            // tipAndTotal.Calculate();
+
+            var avgandSalestax = new CalcAvgValueAndAfterTAx();
+            avgandSalestax.Calculate();
         }
     }
 }
