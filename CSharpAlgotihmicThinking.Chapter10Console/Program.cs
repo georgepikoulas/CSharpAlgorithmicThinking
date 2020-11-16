@@ -55,8 +55,12 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             //var convertCelsius = new ConvertFahrenheitToCelsius();
             //convertCelsius.Calculate();
 
-            var bmi = new CalculateBMI();
-            bmi.Calculate();
+            //var bmi = new CalculateBMI();
+            //bmi.Calculate();
+
+            var tipAndTotal = new CalcTipAndTotal();
+            tipAndTotal.Calculate();
+              
         }
     }
 }
