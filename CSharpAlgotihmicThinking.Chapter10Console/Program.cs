@@ -61,8 +61,11 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             // var tipAndTotal = new CalcTipAndTotal();
             // tipAndTotal.Calculate();
 
-            var avgandSalestax = new CalcAvgValueAndAfterTAx();
-            avgandSalestax.Calculate();
+            //var avgandSalestax = new CalcAvgValueAndAfterTAx();
+            //avgandSalestax.Calculate();
+
+            var calcMoneySaved = new CalcMoneySavedAfterDiscount();
+            calcMoneySaved.Calculate();
         }
     }
 }
