@@ -64,8 +64,11 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             //var avgandSalestax = new CalcAvgValueAndAfterTAx();
             //avgandSalestax.Calculate();
 
-            var calcMoneySaved = new CalcMoneySavedAfterDiscount();
-            calcMoneySaved.Calculate();
+            //var calcMoneySaved = new CalcMoneySavedAfterDiscount();
+            //calcMoneySaved.Calculate();
+
+            var kwhCost = new CalcKWhCost();
+            kwhCost.Calculate();
         }
     }
 }
