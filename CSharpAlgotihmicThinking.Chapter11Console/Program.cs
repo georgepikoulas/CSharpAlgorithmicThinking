@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CSharpAlgotihmicThinking.Chapter11Console.Exercises;
+using System;
 
 namespace CSharpAlgotihmicThinking.Chapter11Console
 {
@@ -6,7 +7,8 @@ namespace CSharpAlgotihmicThinking.Chapter11Console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var distanceOfPoints = new CalcDistanceBetweenTwoPoints();
+            distanceOfPoints.Calculate();
         }
     }
 }
