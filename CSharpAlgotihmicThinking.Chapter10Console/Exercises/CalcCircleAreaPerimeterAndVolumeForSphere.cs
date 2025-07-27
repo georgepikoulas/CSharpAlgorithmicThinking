@@ -27,7 +27,7 @@ namespace CSharpAlgotihmicThinking.Chapter10Console.Exercises
 
             volumeSphere = (float)(4.0 / 3 * PI * radius * radius * radius);
 
-            Console.WriteLine("The radius is " + radius + " the perimeter is " + perimeter + " the area is " + area + " the voluem is " + volumeSphere);
+            Console.WriteLine("The radius is " + radius + " the perimeter is " + perimeter + " the area is " + area + " the volume-- is " + volumeSphere);
 
         }
     }

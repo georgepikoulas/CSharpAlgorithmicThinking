@@ -37,8 +37,8 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             // angles.Calculate();
 
 
-            //var ang = new CalcAvgStudentMarks();
-            // ang.Calculate();
+            var ang = new CalcAvgStudentMarks();
+            ang.Calculate();
 
             //var perimeter = new CalcPerimeterCircle();
             //perimeter.Calculate();
@@ -52,8 +52,8 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             //var tipAndSales = new CalcTipAndSalesTax();
             //tipAndSales.Calculate();
 
-            var convertCelsius = new ConvertFahrenheitToCelsius();
-            convertCelsius.Calculate();
+            //var convertCelsius = new ConvertFahrenheitToCelsius();
+            //convertCelsius.Calculate();
 
             //var bmi = new CalculateBMI();
             //bmi.Calculate();
@@ -67,8 +67,8 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             //var calcMoneySaved = new CalcMoneySavedAfterDiscount();
             //calcMoneySaved.Calculate();
 
-            var kwhCost = new CalcKWhCost();
-            kwhCost.Calculate();
+            //var kwhCost = new CalcKWhCost();
+            //kwhCost.Calculate();
         }
     }
 }
