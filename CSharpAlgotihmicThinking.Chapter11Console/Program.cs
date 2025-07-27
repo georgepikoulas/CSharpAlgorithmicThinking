@@ -9,6 +9,8 @@ namespace CSharpAlgotihmicThinking.Chapter11Console
         {
             var distanceOfPoints = new CalcDistanceBetweenTwoPoints();
             distanceOfPoints.Calculate();
+
+            
         }
     }
 }
