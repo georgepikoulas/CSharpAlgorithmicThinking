@@ -37,8 +37,8 @@ namespace CSharpAlgotihmicThinking.Chapter10Console
             // angles.Calculate();
 
 
-            var ang = new CalcAvgStudentMarks();
-            ang.Calculate();
+            //var ang = new CalcAvgStudentMarks();
+           // ang.Calculate();
 
             //var perimeter = new CalcPerimeterCircle();
             //perimeter.Calculate();
